@@ -1,0 +1,2 @@
+lendo arquivos
+ola comecando o curso de node
